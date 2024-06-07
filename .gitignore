@@ -1,0 +1,11 @@
+/Annotations
+/data_images
+/sample.txt
+/VOCtrainval_11-May-2012
+/yolov5
+/yolov5/data_images
+Predictions/video.mp4
+Predictions/street_image.jpg
+yolo_training.ipynb
+Predictions/Model
+Predictions/best.onnx
